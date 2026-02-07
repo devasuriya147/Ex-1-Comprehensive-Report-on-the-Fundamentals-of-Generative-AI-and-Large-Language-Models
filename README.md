@@ -107,9 +107,13 @@ The future of LLMs is still being written by the humans who are developing the t
 There's also ongoing work to optimize the overall size and training time required for LLMs, including development of Meta's Llama model. Llama 2, which was released in July 2023, has less than half the parameters than GPT-3 has and a fraction of the number GPT-4 contains, though its backers claim it can be more accurate.On the other hand, the use of large language models could drive new instances of shadow IT in organizations. CIOs will need to implement usage guardrails and provide training to avoid data privacy problems and other issues. LLMs could also create new cybersecurity challenges by enabling attackers to write more persuasive and realistic phishing emails or other malicious communications.Nonetheless, the future of LLMs will likely remain bright as the technology continues to evolve in ways that help improve human productivity.
 
 ### Overview of large language models:
+
 <img width="926" height="910" alt="img-4" src="https://github.com/user-attachments/assets/ec5ce0df-2d5e-43b8-8e23-44d04c204607" />
+
 ### Topic 2: Introduction to Generative AI
+
 ### Aim:
+
 To introduce the concept of Generative AI, explain how it works, and discuss its applications and challenges.
 
 ### Procedure:
@@ -216,11 +220,11 @@ Generative AI is important for a number of reasons. Some of the key benefits of 
 
 Overall, generative AI has the potential to significantly impact a wide range of industries and applications and is an important area of AI research and development. 
 
-###Conclusion:
+### Conclusion:
 
 Generative AI and LLMs represent a major leap in artificial intelligence, enabling machines to create content that was once thought to be uniquely human. Their development has been driven by advances in deep learning, particularly the transformer architecture. While the benefits are immense in terms of creativity, efficiency, and personalization, there are also significant challenges that need to be addressed. Responsible development, deployment, and regulation are essential to harness the full potential of these technologies while mitigating risks.
 
-###Result:
+### Result:
 
 This write-up provides a complete overview of Generative AI and Large Language Models (LLMs), covering their definitions, evolution, types, architecture, applications, benefits, and limitations. By understanding how these models function and their impact on various industries, we gain insights into both their transformative power and the challenges they present. This knowledge is essential for students, developers, and professionals to responsibly innovate and contribute to the evolving landscape of artificial intelligence. It highlights the importance of using Generative AI ethically while harnessing its potential to solve real-world problems and enhance human creativity.
 
